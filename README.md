@@ -1,3 +1,3 @@
-# # Let's learn some Gatsby
+# Let's learn some Gatsby
 
 Quickly deployed at -- > familiar-calculator.surge.sh
